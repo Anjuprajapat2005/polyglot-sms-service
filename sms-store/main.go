@@ -9,7 +9,7 @@ import (
 	"sms-store/handler"
 )
 
-func main() {c
+func main() {
 
 	// Connect MongoDB
 	db.ConnectMongo()
